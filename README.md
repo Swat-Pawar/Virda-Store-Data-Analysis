@@ -1,4 +1,4 @@
-# Virda-Store-Data-Analysis using a Excel Dashboard
+# Virda_Store_Data_Analysis using a Excel Dashboard
 Report on Previous Year Sales Data So Can Set the Future Target.
 Sample Insights
 
